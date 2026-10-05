@@ -1,0 +1,13 @@
+# project
+
+## Overview
+This repository contains the work for a data analytics project completed as part of coursework exploring Git workflows
+
+## Contents
+- `data/` — raw and/or processed datasets used in the analysis
+- `docs/` — supporting documentation
+- `report/` — final report and written analysis
+- `src/` — source code / scripts
+- `images/` — figures and visual assets
+- `Report.ipynb` — main analysis notebook, including data preprocessing and a logistic regression model built with scikit-learn
+- `environment.yaml` — conda environment specification for reproducing this project's setup
